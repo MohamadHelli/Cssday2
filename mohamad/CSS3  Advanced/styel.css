@@ -1,0 +1,17 @@
+    .logo {
+        position: relative left: 40%;
+        width: 20%;
+        height: 20%;
+        border-radius: 40%;
+    }
+    
+    .alllink {
+        text-decoration: none;
+        color: red;
+    }
+    
+    li {
+        display: inline-block;
+        margin: 20px;
+        font-weight: bold;
+    }
