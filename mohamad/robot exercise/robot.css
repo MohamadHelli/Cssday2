@@ -1,7 +1,52 @@
 img {
-  width: 50px;
-}
-#face {
-  width: 400px;
+    width: 50px;
 }
 
+#face {
+    width: 400px;
+}
+
+#eyes2 {
+    position: absolute;
+    top: 150px;
+    left: 120px;
+    width: 14%;
+}
+
+#nose2 {
+    position: absolute;
+    z-index: 2;
+    bottom: 40%;
+    left: 12%;
+    width: 10%;
+}
+
+#mouth2 {
+    position: absolute;
+    z-index: 1;
+    bottom: 45%;
+    left: 3%;
+    width: 25%;
+}
+
+#hair1 {
+    position: absolute;
+    bottom: 50%;
+    left: 3%;
+    width: 25%;
+}
+
+#nose1 {
+    position: absolute;
+    bottom: 25%;
+    left: 10%;
+    width: 10%;
+    transform: rotate(90deg);
+}
+
+#ears2 {
+    position: absolute;
+    bottom: 50%;
+    left: 3%;
+    width: 25%;
+}
